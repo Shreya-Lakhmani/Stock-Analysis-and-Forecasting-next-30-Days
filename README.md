@@ -10,7 +10,7 @@
 
 📦 Installation & Setup
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/stock-analysis-and-forecasting.git
+git clone https://github.com/Shreya-Lakhmani/Stock-Analysis-and-Forecasting-next-30-Days.git
 cd stock-analysis-and-forecasting
 
 2️⃣ Create Virtual Environment (Recommended)
