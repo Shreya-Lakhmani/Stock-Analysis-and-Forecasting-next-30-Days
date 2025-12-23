@@ -7,6 +7,31 @@
   - Please try switching to a **different Wi-Fi network** or
   - Use a **mobile hotspot** or
   - Run the app on a **personal/home network**
+
+📦 Installation & Setup
+1️⃣ Clone the Repository
+git clone https://github.com/your-username/stock-analysis-and-forecasting.git
+cd stock-analysis-and-forecasting
+
+2️⃣ Create Virtual Environment (Recommended)
+python -m venv venv
+source venv/bin/activate        # On Windows: venv\Scripts\activate
+
+3️⃣ Install Dependencies
+streamlit
+pandas
+numpy
+yfinance
+plotly
+plotly-express
+pandas-ta
+pandas-datareader
+statsmodels
+scikit-learn
+python-dateutil
+
+4️⃣ Run the Application
+streamlit run app.py
 <img width="1600" height="800" alt="Screenshot (176)" src="https://github.com/user-attachments/assets/76a8a8bc-1779-48ea-ac83-cead3fc888f7" />
 <img width="1600" height="800" alt="Screenshot (177)" src="https://github.com/user-attachments/assets/877bdf0d-e468-4e0e-aff3-d2a85d7373a7" />
 <img width="1600" height="800" alt="Screenshot (178)" src="https://github.com/user-attachments/assets/f62fb08f-9ecb-433c-bcb9-a24c16a5d15a" />
