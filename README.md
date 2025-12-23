@@ -31,7 +31,8 @@ scikit-learn
 python-dateutil
 
 4️⃣ Run the Application
-streamlit run app.py
+streamlit run Trading_app.py
+
 <img width="1600" height="800" alt="Screenshot (176)" src="https://github.com/user-attachments/assets/76a8a8bc-1779-48ea-ac83-cead3fc888f7" />
 <img width="1600" height="800" alt="Screenshot (177)" src="https://github.com/user-attachments/assets/877bdf0d-e468-4e0e-aff3-d2a85d7373a7" />
 <img width="1600" height="800" alt="Screenshot (178)" src="https://github.com/user-attachments/assets/f62fb08f-9ecb-433c-bcb9-a24c16a5d15a" />
